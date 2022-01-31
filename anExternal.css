@@ -1,0 +1,16 @@
+p {
+    float:left;
+    color: rgb(1, 252, 218);
+    margin-left: 25px;
+    border-radius: 25px;
+    background: #fa29a3;
+    padding: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    float:right;
+}
